@@ -1,19 +1,10 @@
 Maintainers: Clement Verna <cverna@fedoraproject.org> (@cverna), Vipul Siddharth <siddharthvipul1@fedoraproject.org> (@siddharthvipul)
 GitRepo: https://github.com/fedora-cloud/docker-brew-fedora.git
 
-Tags: 39
-Architectures: amd64, arm64v8, ppc64le, s390x
-GitFetch: refs/heads/39
-GitCommit: 5b028576513bbea06b4ce927427f9bc3183285ec
-amd64-Directory: x86_64/
-arm64v8-Directory: aarch64/
-s390x-Directory: s390x/
-ppc64le-Directory: ppc64le/
-
-Tags: 40, latest
+Tags: 40
 Architectures: amd64, arm64v8, ppc64le, s390x
 GitFetch: refs/heads/40
-GitCommit: 587b205e429db73124477f89d3d1f77e75ef9550
+GitCommit: f5bdda47877c6a4cbbdef5233fdcfb31e0a96040
 amd64-Directory: x86_64/
 arm64v8-Directory: aarch64/
 s390x-Directory: s390x/
@@ -22,16 +13,25 @@ ppc64le-Directory: ppc64le/
 Tags: 41
 Architectures: amd64, arm64v8, ppc64le, s390x
 GitFetch: refs/heads/41
-GitCommit: bcf046150f9f7db37cb4df2e877b306cb3610d03
+GitCommit: 5aee3a684c041e0665d1af1350a245f2286fbf18
 amd64-Directory: x86_64/
 arm64v8-Directory: aarch64/
 s390x-Directory: s390x/
 ppc64le-Directory: ppc64le/
 
-Tags: 42, rawhide
+Tags: 42, latest
 Architectures: amd64, arm64v8, ppc64le, s390x
 GitFetch: refs/heads/42
-GitCommit: 78f4c52f0e2202bd61997b823e5b90b347b1dfcd
+GitCommit: 010de8006c2c551b626959423a588bb773fcf412
+amd64-Directory: x86_64/
+arm64v8-Directory: aarch64/
+s390x-Directory: s390x/
+ppc64le-Directory: ppc64le/
+
+Tags: 43, rawhide
+Architectures: amd64, arm64v8, ppc64le, s390x
+GitFetch: refs/heads/43
+GitCommit: 2ed4770ad9089b377782b204bef1ea738fd30862
 amd64-Directory: x86_64/
 arm64v8-Directory: aarch64/
 s390x-Directory: s390x/
