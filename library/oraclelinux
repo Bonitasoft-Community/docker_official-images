@@ -4,10 +4,10 @@ GitCommit: 5c8a1c296acd6e90487cd261d16cf85fd6bcb73f
 GitFetch: refs/heads/master
 # https://github.com/oracle/container-images/tree/dist-amd64
 amd64-GitFetch: refs/heads/dist-amd64
-amd64-GitCommit: ff71c2bef14fafee24b8c7a8c71a3cc266b6d424
+amd64-GitCommit: dcecdbc89593ae8c411dc5934612db19e80845d4
 # https://github.com/oracle/container-images/tree/dist-arm64v8
 arm64v8-GitFetch: refs/heads/dist-arm64v8
-arm64v8-GitCommit: a826858c848d3552d502db0d0093afd7ff5f4325
+arm64v8-GitCommit: 6195741453f7b141203203a43d0e0a4db8530c22
 
 Tags: 9
 Architectures: amd64, arm64v8

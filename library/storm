@@ -4,10 +4,10 @@ Maintainers: The Apache Storm Project <dev@storm.apache.org> (@asfbot),
 GitRepo: https://github.com/apache/storm-docker.git
 Architectures: amd64, arm64v8
 
-Tags: 2.6.4, 2.6, latest
-GitCommit: 3d67ed2cbc3d15b210840745292d53c0ece4f63c
-Directory: 2.6.4
+Tags: 2.8.0, 2.8, latest
+GitCommit: fefacef2f400d8f437675b11e08bc6098a91c188
+Directory: 2.8.0
 
-Tags: 2.6.4-jre17, 2.6-jre17
-GitCommit: 3d67ed2cbc3d15b210840745292d53c0ece4f63c
-Directory: 2.6.4-jre17
+Tags: 2.8.0-jre17, 2.8-jre17
+GitCommit: fefacef2f400d8f437675b11e08bc6098a91c188
+Directory: 2.8.0

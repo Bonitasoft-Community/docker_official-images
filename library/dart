@@ -1,12 +1,12 @@
-Maintainers: Alexander Thomas <athom@google.com> (@athomas), Tony Pujals <tonypujals@google.com> (@subfuzion)
+Maintainers: Alexander Thomas <athom@google.com> (@athomas), Ivan Inozemtsev <iinozemtsev@google.com> (@iinozemtsev)
 GitRepo: https://github.com/dart-lang/dart-docker.git
 GitFetch: refs/heads/main
-GitCommit: aaa12b5ca0fea8cd71ccdc472f75ee4d3ff35ee7
+GitCommit: 18561563ab7693353929d54e9bee6bed9d7909a6
 
-Tags: 3.5.2-sdk, 3.5-sdk, 3-sdk, stable-sdk, sdk, 3.5.2, 3.5, 3, stable, latest
+Tags: 3.8.0-sdk, 3.8-sdk, 3-sdk, stable-sdk, sdk, 3.8.0, 3.8, 3, stable, latest
 Architectures: amd64, arm32v7, arm64v8
 Directory: stable/bookworm
 
-Tags: 3.6.0-216.1.beta-sdk, beta-sdk, 3.6.0-216.1.beta, beta
+Tags: 3.9.0-100.2.beta-sdk, beta-sdk, 3.9.0-100.2.beta, beta
 Architectures: amd64, arm32v7, arm64v8
 Directory: beta/bookworm
